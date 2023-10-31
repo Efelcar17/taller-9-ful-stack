@@ -11,6 +11,7 @@
 <a href="https://www.figma.com/file/wPMgZf0SMW8wT82uz0Ghfx/Edison-Felipe-Carrillo-Huertas?type=design&node-id=0%3A1&mode=design&t=ZvQxARF5UTtIUiKy-1">Link de Figma</a>
 
 <h2>Punto 2: Diseño en HTML</h2>
+<img src="./public/images/punto-2.png" alt="punto 2">
 
 <h2>Punto 3: Diseño con CSS</h2>
 
