@@ -1,0 +1,13 @@
+body {
+    margin: 0px 600px;
+    background-color: beige;
+}
+
+.blue__title {
+    color:blue;
+
+}
+
+.red__title {
+    color:red
+}
