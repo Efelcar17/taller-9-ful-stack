@@ -1,0 +1,23 @@
+table{
+    margin: 300px;
+    width: 800px;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: yellow;
+}
+
+th{
+    border: 1px dotted black;
+    padding: 8px;
+    text-align: center;
+    color: red;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td{
+    border: 1px dotted black;
+    padding: 8px;
+    text-align: left;
+    bor
+}

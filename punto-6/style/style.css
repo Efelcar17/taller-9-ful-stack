@@ -1,0 +1,16 @@
+body{
+    padding-inline: 350px;
+    justify-content: center;
+    text-align: left;
+    font-size: 60px;
+}
+
+.link__marca{
+    color: yellow;
+    text-align: left;
+}
+
+.link_as{
+    color: blueviolet;
+    text-align: left;
+}

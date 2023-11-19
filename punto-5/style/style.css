@@ -1,0 +1,34 @@
+p{
+    padding-top: 10%;
+    padding-inline: 25%;
+}
+
+u {
+    color:green;
+}
+
+.strong__letter {
+    color: red;
+    text-decoration: underline;
+}
+
+.blue {
+    color: blue;
+}
+
+.weight__letter{
+    font-size: x-large;
+}
+
+.box{
+    text-decoration: overline underline;
+}
+
+.strong__letter-1{
+    color: red;
+}
+
+div{
+    padding-inline: 25%;
+    padding-top: none;
+}
